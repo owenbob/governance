@@ -1,3 +1,4 @@
+
 # governance
 Simple documentation about Erican football Club governace
 
@@ -5,7 +6,7 @@ Simple documentation about Erican football Club governace
 #  ERICAN FOOTBALL CLUB
 
 #### Corporate Structure
-
+![corporate sructure](https://user-images.githubusercontent.com/30471763/125979036-d28a65d4-3394-47f7-bcc3-c378722b5182.png)
 #### Roles
 Mentioned roles with their context in a system setting
 - Chief executive Officer - Overseeing the whole Organization(Admin privileges)
